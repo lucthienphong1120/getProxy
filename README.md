@@ -1,5 +1,7 @@
 # Get Proxy
 
+available for Windows/Linux/Parrot
+
 ```
 git clone https://github.com/lucthienphong1120/getProxy
 cd getProxy
